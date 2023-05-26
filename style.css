@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+}
+
+h3{
+    color: red;
+    font-style: italic;
+}
+li {
+    color: rgb(103, 20, 20);
+}
+.item-third{
+    text-decoration: line-through;
+}
+
+.item-four{
+    background-color: yellow;
+}
+
+span{
+    font-weight: 900;
+}
+.item-five{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ul li{
+    color: rgb(173, 18, 18);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+letter-spacing: 7px;
+
+}
+
+
+p{
+    color:rgb(105, 14, 20);
+}
+
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
